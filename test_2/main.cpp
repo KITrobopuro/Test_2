@@ -6,6 +6,11 @@ int main()
 {
     std::cout << "Hello world!" << std::endl;
     return 0;
+<<<<<<< HEAD
+//¡ˆä
+=======
 	// aaa
+	//wa
 
+>>>>>>> origin/aaa
 }
