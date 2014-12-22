@@ -10,6 +10,7 @@ int main()
 //¡ˆä
 =======
 	// aaa
+	//wa
 
 >>>>>>> origin/aaa
 }
