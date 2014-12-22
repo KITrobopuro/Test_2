@@ -8,4 +8,5 @@ int main()
     cout << "KITrobopro2015" << endl;
 	printf("helohelo");
     return 0;
+    //test by naru
 }
